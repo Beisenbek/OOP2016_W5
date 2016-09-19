@@ -1,0 +1,5 @@
+/Users/bsnbk/Projects/ObjectCollistion/ObjectCollistion/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/bsnbk/Projects/ObjectCollistion/ObjectCollistion/bin/Debug/ObjectCollistion.exe.mdb
+/Users/bsnbk/Projects/ObjectCollistion/ObjectCollistion/bin/Debug/ObjectCollistion.exe
+/Users/bsnbk/Projects/ObjectCollistion/ObjectCollistion/obj/x86/Debug/ObjectCollistion.exe
+/Users/bsnbk/Projects/ObjectCollistion/ObjectCollistion/obj/x86/Debug/ObjectCollistion.exe.mdb
