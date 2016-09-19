@@ -1,1 +1,25 @@
-﻿<Properties StartupItem="ObjectCollistion/ObjectCollistion.csproj" />
+﻿<Properties StartupItem="ObjectCollistion/ObjectCollistion.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ObjectCollistion/Global.cs">
+    <Files>
+      <File FileName="ObjectCollistion/Program.cs" Line="9" Column="26" />
+      <File FileName="ObjectCollistion/Scene.cs" Line="19" Column="31" />
+      <File FileName="ObjectCollistion/SuperSharp.cs" Line="24" Column="4" />
+      <File FileName="ObjectCollistion/Global.cs" Line="12" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ObjectCollistion" expanded="True" selected="True">
+            <Node name="ObjectCollistion" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ObjectCollistion PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
