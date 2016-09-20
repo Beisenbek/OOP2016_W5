@@ -11,6 +11,11 @@ namespace ObjectCollistion
 			Scene scene = new Scene();
 			scene.Setup();
 			scene.Run();
+
+            Action action = new Action();
+            action.Attach(scene);
+
+            action.Run(scene);
 		}
 
 	}
